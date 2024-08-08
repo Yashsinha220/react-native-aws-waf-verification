@@ -1,0 +1,17 @@
+{
+  "name": "react-native-aws-waf-verification",
+  "version": "1.0.0",
+  "description": "Implement Awf waf verification for both android and ios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yash sinha",
+  "license": "ISC",
+  "peerDependencies": {
+		"react": "*",
+		"react-native": "*",
+		"react-native-modal": "^13.0.1",
+		"react-native-webview": "^13.8.1"
+	}
+}
